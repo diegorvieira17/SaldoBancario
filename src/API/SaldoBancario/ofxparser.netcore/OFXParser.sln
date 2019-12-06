@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OFXParser", "OFXParser\OFXParser.csproj", "{16594080-95C8-47C6-9A9B-D7C1FB053BD5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OFXParser.Test", "OFXParser.Test\OFXParser.Test.csproj", "{A7B736EE-B927-4842-A03A-7D1E0AAE71CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16594080-95C8-47C6-9A9B-D7C1FB053BD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16594080-95C8-47C6-9A9B-D7C1FB053BD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16594080-95C8-47C6-9A9B-D7C1FB053BD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16594080-95C8-47C6-9A9B-D7C1FB053BD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7B736EE-B927-4842-A03A-7D1E0AAE71CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7B736EE-B927-4842-A03A-7D1E0AAE71CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7B736EE-B927-4842-A03A-7D1E0AAE71CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7B736EE-B927-4842-A03A-7D1E0AAE71CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {728DC8AD-302E-4998-9115-458BA82925D3}
+	EndGlobalSection
+EndGlobal

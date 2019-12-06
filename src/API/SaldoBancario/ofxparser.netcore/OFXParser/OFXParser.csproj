@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <Authors>Strobelt</Authors>
+    <Product />
+    <Company />
+    <PackageId>OFXParser.NetCore</PackageId>
+    <Description>OFX file parser for .Net Core</Description>
+    <RepositoryUrl>https://github.com/strobelt/ofxparser.netcore</RepositoryUrl>
+    <RepositoryType>Git</RepositoryType>
+    <PackageProjectUrl>https://github.com/strobelt/ofxparser.netcore</PackageProjectUrl>
+    <PackageLicenseUrl>https://www.apache.org/licenses/LICENSE-2.0.html</PackageLicenseUrl>
+    <Copyright>Apache License 2.0</Copyright>
+    <PackageTags>ofx parser .net dotnet .netcore dotnetcore</PackageTags>
+    <Version>1.1.1</Version>
+  </PropertyGroup>
+
+</Project>
